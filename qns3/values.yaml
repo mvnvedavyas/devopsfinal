@@ -1,0 +1,5 @@
+replicas: 1
+
+image:
+  repository: vdvs99/devopsfinal
+  tag: latest
