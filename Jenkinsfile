@@ -28,9 +28,9 @@ pipeline {
             environment {
                 // Define your Docker Hub username and repository name
                 DOCKER_HUB_USERNAME = 'vdvs99'
-                DOCKER_HUB_REPOSITORY = 'devops-app'
+                DOCKER_HUB_REPOSITORY = 'devopsfinal'
                 // Define your Docker Hub password
-                DOCKER_HUB_PASSWORD = 'dckr_pat_IIhwe47UdqsRdKS7GnMiSUjqrQQ'
+                DOCKER_HUB_PASSWORD = 'dckr_pat_PtiBTu8cDqliCalZUlLxB1eJ4xo'
             }
             steps {
                 // Tag the Docker image with Docker Hub repository name
